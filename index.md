@@ -12,24 +12,55 @@ It's going to take years and it's going to be hard. We will all have to learn an
 
 This is where we share what we know so far.
 
-## Start Your Journey to become a Reality Engineer - 3D, XR, AI, Ethics
+## Start Your Journey to become a Reality Engineer
 
-#### We are starting with four Reality Engineer skills: 3D, XR, AI, Ethics
+Open Tools
 
-### [**3D**](https://en.wikipedia.org/wiki/Metaverse)
-### [**XR**](https://en.wikipedia.org/wiki/Metaverse)
-### [**AI**](https://en.wikipedia.org/wiki/Metaverse)
-### [**Ethics**](https://en.wikipedia.org/wiki/Metaverse)
 
 ## Why?
 
 ## What You Need
 
-## [3D](3d/beginner.html)
-## XR 
-## AI
-## Ethics
+#### We are starting with four Reality Engineer skills: 3D, XR, AI, Ethics
 
-## Beginner
-## Intermediate
-## Expert
+### [**3D - Create Spatial Content**](https://en.wikipedia.org/wiki/Metaverse)
+
+| Skill      | Tools | Level     | Link     |
+| :---        |    :---   |  :----:        | :---          |
+| 3D Concepts      | Blender | Beginner     | [Project Tutorial](3d/beginner.html)     |
+| Sculpting      | Blender | Beginner     | [Project Tutorial](3d/beginner.html)     |
+| Materials      | Blender | Beginner     | [Project Tutorial](3d/beginner.html)     |
+| Asset Optomizaiton      | Blender | Intermediate     | [Project Tutorial](3d/beginner.html)     |
+| PBR      | Substance, Blender | Intermediate    | [Project Tutorial](3d/beginner.html)     | 
+
+
+### [**XR**](https://en.wikipedia.org/wiki/Metaverse)
+
+| Skill      | Tools | Level     | Link     |
+| :---        |    :---   |  :----:        | :---          |
+| 3D Concepts      | Blender | Beginner     | [Project Tutorial](3d/beginner.html)     |
+| Sculpting      | Blender | Beginner     | [Project Tutorial](3d/beginner.html)     |
+| Materials      | Blender | Beginner     | [Project Tutorial](3d/beginner.html)     |
+| Asset Optomizaiton      | Blender | Intermediate     | [Project Tutorial](3d/beginner.html)     |
+| PBR      | Substance, Blender | Intermediate    | [Project Tutorial](3d/beginner.html)     | 
+
+
+### [**AI**](https://en.wikipedia.org/wiki/Metaverse)
+
+| Skill      | Tools | Level     | Link     |
+| :---        |    :---   |  :----:        | :---          |
+| 3D Concepts      | Blender | Beginner     | [Project Tutorial](3d/beginner.html)     |
+| Sculpting      | Blender | Beginner     | [Project Tutorial](3d/beginner.html)     |
+| Materials      | Blender | Beginner     | [Project Tutorial](3d/beginner.html)     |
+| Asset Optomizaiton      | Blender | Intermediate     | [Project Tutorial](3d/beginner.html)     |
+| PBR      | Substance, Blender | Intermediate    | [Project Tutorial](3d/beginner.html)     | 
+
+### [**Ethics**](https://en.wikipedia.org/wiki/Metaverse)
+
+| Skill      | Tools | Level     | Link     |
+| :---        |    :---   |  :----:        | :---          |
+| 3D Concepts      | Blender | Beginner     | [Project Tutorial](3d/beginner.html)     |
+| Sculpting      | Blender | Beginner     | [Project Tutorial](3d/beginner.html)     |
+| Materials      | Blender | Beginner     | [Project Tutorial](3d/beginner.html)     |
+| Asset Optomizaiton      | Blender | Intermediate     | [Project Tutorial](3d/beginner.html)     |
+| PBR      | Substance, Blender | Intermediate    | [Project Tutorial](3d/beginner.html)     | 
