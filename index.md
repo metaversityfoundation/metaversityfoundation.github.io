@@ -32,8 +32,8 @@ The future will be wild. The way we connect with each other is changing again. A
 #### We are starting with four Reality Engineer skills: Code Fundamentals, 3D, XR, Blockchain, AI, Ethics
 
 ### [**Code Fundamentals**](https://en.wikipedia.org/wiki/Metaverse)
-| Skill      | Tools | Level     | Link     |
-| :---        |    :---   |  :----:        | :---          |
+| Skill      | Tools   | Level     | Link     |
+| :---        |  :---   |   :----:       | :---          |
 | Python      | Python, VSCode | Beginner     | [Project Tutorial](3d/beginner.html)     |
 | Python      | Python, VSCode | Intermediate     | [Project Tutorial](3d/beginner.html)     |
 | JavaScript      | JavaScript, VSCode | Intermediate     | [Project Tutorial](3d/beginner.html)     |
