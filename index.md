@@ -10,14 +10,16 @@ Who will build it?
 
 It's going to take years and it's going to be hard. We will all have to learn and teach.
 
-This is where we share what we know so far.
+This is where we share what we know so far with each other.
 
 ## Start Your Journey to become a Reality Engineer
 
-Open Tools
+We ephasise an education and community around **Open Tools** for **Individual Professional and Creative Empowerment**.
 
 
 ## Why?
+
+The future will be wild. The way we connect with each other is changing again. Augmented Reality, Virtual Reality, Computer Vision, and Machine Learning are disrupting each other over and over. The web and our social networks will be reimaged as ubiquitous virtual spaces. We intend to share the knowledge behind these maricle innovations with anyone interested in the hopes that togheter we can create these digital landsapes to the limits of our collective immagination.
 
 ## What You Need
 
