@@ -47,7 +47,7 @@ The future will be wild. The way we connect with each other is changing again. A
 | Shaders      | Unity, Three.js | Intermediate    | [Project Tutorial](3d/beginner.html)     | 
 
 
-### [**AI - Ubiquitous Interactive Intelligence**](https://en.wikipedia.org/wiki/Metaverse)
+### [**AI - Ubiquitous Interactive Intelligence, Sentient Digital Beings**](https://en.wikipedia.org/wiki/Metaverse)
 
 | Skill      | Tools | Level     | Link     |
 | :---        |    :---   |  :----:        | :---          |
@@ -60,7 +60,7 @@ The future will be wild. The way we connect with each other is changing again. A
 | Train a Model      | Python, TensorFlow 2 | Intermediate     | [Project Tutorial](3d/beginner.html)     |
 | Traning Pipelines      | Kubeflow, Python, TensorFlow 2 | Intermediate    | [Project Tutorial](3d/beginner.html)     | 
 
-### [**Ethics**](https://en.wikipedia.org/wiki/Metaverse)
+### [**Ethics - The Culture and Politics of the Singularity Internet**](https://en.wikipedia.org/wiki/Metaverse)
 
 | Skill      | Tools | Level     | Link     |
 | :---        |    :---   |  :----:        | :---          |
