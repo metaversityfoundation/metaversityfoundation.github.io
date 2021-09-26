@@ -1,7 +1,7 @@
 ---
 title: Start Your Journey to become a Reality Engineer - 3D, XR, AI, Ethics
 ---
-
+[![IMAGE_ALT](https://img.youtube.com/vi/ANO29CzQXUA/0.jpg)](https://www.youtube.com/watch?v=ANO29CzQXUA)
 
 # The [Metaverse](https://en.wikipedia.org/wiki/Metaverse) is coming. 
 
