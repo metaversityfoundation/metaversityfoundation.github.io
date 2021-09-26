@@ -28,7 +28,8 @@ We ephasise an education and community around **Open Tools** for **Individual Pr
 
 The future will be wild. The way we connect with each other is changing again. Augmented Reality, Virtual Reality, Computer Vision, and Machine Learning are disrupting each other over and over. The web and our social networks will be reimaged as ubiquitous virtual spaces. We intend to share the knowledge behind these innovations with anyone interested in the hopes that together we can create digital landscapes to the limits of our collective imagination.
 
-## What You Need
+## What You Need : A computer and time. Lots of time.
+These skills are a serious personal investment that never stops.
 
 #### We are starting with four Reality Engineer skills: Code Fundamentals, 3D, XR, Blockchain, AI, Ethics
 
