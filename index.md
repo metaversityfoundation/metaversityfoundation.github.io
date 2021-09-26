@@ -34,33 +34,36 @@ Open Tools
 | PBR      | Substance, Blender | Intermediate    | [Project Tutorial](3d/beginner.html)     | 
 
 
-### [**XR**](https://en.wikipedia.org/wiki/Metaverse)
+### [**XR - Create Immersive Expierences for Today and Tomorrow**](https://en.wikipedia.org/wiki/Metaverse)
 
 | Skill      | Tools | Level     | Link     |
 | :---        |    :---   |  :----:        | :---          |
-| 3D Concepts      | Blender | Beginner     | [Project Tutorial](3d/beginner.html)     |
-| Sculpting      | Blender | Beginner     | [Project Tutorial](3d/beginner.html)     |
-| Materials      | Blender | Beginner     | [Project Tutorial](3d/beginner.html)     |
-| Asset Optomizaiton      | Blender | Intermediate     | [Project Tutorial](3d/beginner.html)     |
-| PBR      | Substance, Blender | Intermediate    | [Project Tutorial](3d/beginner.html)     | 
+| Phone AR      | Three.js | Beginner     | [Project Tutorial](3d/beginner.html)     |
+| WebXR VR      | Three.js | Beginner     | [Project Tutorial](3d/beginner.html)     |
+| Physics      | Three.js | Beginner     | [Project Tutorial](3d/beginner.html)     |
+| Performance Optomizaiton      | Three.js | Intermediate     | [Project Tutorial](3d/beginner.html)     |
+| Shaders      | Unity, Three.js | Intermediate    | [Project Tutorial](3d/beginner.html)     | 
 
 
-### [**AI**](https://en.wikipedia.org/wiki/Metaverse)
+### [**AI - Ubiquitous Interactive Intelligence**](https://en.wikipedia.org/wiki/Metaverse)
 
 | Skill      | Tools | Level     | Link     |
 | :---        |    :---   |  :----:        | :---          |
-| 3D Concepts      | Blender | Beginner     | [Project Tutorial](3d/beginner.html)     |
-| Sculpting      | Blender | Beginner     | [Project Tutorial](3d/beginner.html)     |
-| Materials      | Blender | Beginner     | [Project Tutorial](3d/beginner.html)     |
-| Asset Optomizaiton      | Blender | Intermediate     | [Project Tutorial](3d/beginner.html)     |
-| PBR      | Substance, Blender | Intermediate    | [Project Tutorial](3d/beginner.html)     | 
+| Machine Learning Concepts      | Python | Beginner     | [Project Tutorial](3d/beginner.html)     |
+| Python      | Python | Beginner     | [Project Tutorial](3d/beginner.html)     |
+| Calculations & Statistics      | Python | Beginner     | [Project Tutorial](3d/beginner.html)     |
+| Machine Learning      | Python | Beginner     | [Project Tutorial](3d/beginner.html)     |
+| Deep Learing      | Python | Beginner     | [Project Tutorial](3d/beginner.html)     |
+| Tune a Model      | Python, TensorFlow 2 | Beginner     | [Project Tutorial](3d/beginner.html)     |
+| Train a Model      | Python, TensorFlow 2 | Intermediate     | [Project Tutorial](3d/beginner.html)     |
+| Traning Pipelines      | Kubeflow, Python, TensorFlow 2 | Intermediate    | [Project Tutorial](3d/beginner.html)     | 
 
 ### [**Ethics**](https://en.wikipedia.org/wiki/Metaverse)
 
 | Skill      | Tools | Level     | Link     |
 | :---        |    :---   |  :----:        | :---          |
-| 3D Concepts      | Blender | Beginner     | [Project Tutorial](3d/beginner.html)     |
-| Sculpting      | Blender | Beginner     | [Project Tutorial](3d/beginner.html)     |
-| Materials      | Blender | Beginner     | [Project Tutorial](3d/beginner.html)     |
-| Asset Optomizaiton      | Blender | Intermediate     | [Project Tutorial](3d/beginner.html)     |
-| PBR      | Substance, Blender | Intermediate    | [Project Tutorial](3d/beginner.html)     | 
+| Economics and Governance      | Git, Wiki | Beginner     | [Project Tutorial](3d/beginner.html)     |
+| Soverignty and Data      | Git, Wiki | Beginner     | [Project Tutorial](3d/beginner.html)     |
+| Risk      | Git, Wiki | Beginner     | [Project Tutorial](3d/beginner.html)     |
+| Process Optomizaiton      | Git, Wiki | Intermediate     | [Project Tutorial](3d/beginner.html)     |
+| Spatial Audits      | Git, Wiki, Blender | Intermediate    | [Project Tutorial](3d/beginner.html)     | 
