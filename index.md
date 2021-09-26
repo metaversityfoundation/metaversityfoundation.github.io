@@ -19,6 +19,8 @@ We ephasise an education and community around **Open Tools** for **Individual Pr
 
 ### [**Join our Discord**](https://discord.gg/Amsm5KD) - [![Discord Chat](https://img.shields.io/discord/139274054300467200.svg)](https://discord.gg/Amsm5KD)
 
+### [**Follow our Virtual Events Calendar**](https://xrsocial.eventbrite.com)
+
 ## Why?
 
 The future will be wild. The way we connect with each other is changing again. Augmented Reality, Virtual Reality, Computer Vision, and Machine Learning are disrupting each other over and over. The web and our social networks will be reimaged as ubiquitous virtual spaces. We intend to share the knowledge behind these innovations with anyone interested in the hopes that together we can create digital landscapes to the limits of our collective imagination.
