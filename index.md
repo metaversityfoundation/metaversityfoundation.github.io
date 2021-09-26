@@ -9,7 +9,7 @@ title: Start Your Journey to become a Reality Engineer - 3D, XR, AI, Ethics
 ## What You Need
 
 ## [3D](3d/beginner.html)
-## XR
+##  XR 
 ## AI
 ## Ethics
 
