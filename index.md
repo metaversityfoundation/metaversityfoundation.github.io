@@ -1,6 +1,8 @@
 ---
 title: Start Your Journey to become a Reality Engineer - 3D, XR, AI, Ethics
 ---
+
+### **›› VIDEO ›› What is the Metaverse ››**
 [![IMAGE_ALT](https://img.youtube.com/vi/ANO29CzQXUA/0.jpg)](https://www.youtube.com/watch?v=ANO29CzQXUA)
 
 # The [Metaverse](https://en.wikipedia.org/wiki/Metaverse) is coming. 
@@ -32,6 +34,11 @@ The future will be wild. The way we connect with each other is changing again. A
 ### [**Code Fundamentals**](https://en.wikipedia.org/wiki/Metaverse)
 | Skill      | Tools | Level     | Link     |
 | :---        |    :---   |  :----:        | :---          |
+| Python      | Python, VSCode | Beginner     | [Project Tutorial](3d/beginner.html)     |
+| Python      | Python, VSCode | Intermediate     | [Project Tutorial](3d/beginner.html)     |
+| JavaScript      | JavaScript, VSCode | Intermediate     | [Project Tutorial](3d/beginner.html)     |
+| TypeScript      | TypeScript, VSCode | Intermediate     | [Project Tutorial](3d/beginner.html)     |
+| DevOps      | AWS, VSCode | Intermediate     | [Project Tutorial](3d/beginner.html)     |
 
 ### [**3D - Create Spatial Content**](https://en.wikipedia.org/wiki/Metaverse)
 
@@ -57,6 +64,11 @@ The future will be wild. The way we connect with each other is changing again. A
 ### [**Blockchain**](https://en.wikipedia.org/wiki/Metaverse)
 | Skill      | Tools | Level     | Link     |
 | :---        |    :---   |  :----:        | :---          |
+| Blockchain Concepts      | GitHub | Beginner     | [Project Tutorial](3d/beginner.html)     |
+| Coin, ICO, DAO Concepts      | GitHub | Beginner     | [Project Tutorial](3d/beginner.html)     |
+| NFTs, Non-Fungable Tokens      | Solidity, VSCode | Intermediate     | [Project Tutorial](3d/beginner.html)     |
+| Solidity      | Solidity, VSCode | Intermediate     | [Project Tutorial](3d/beginner.html)     |
+| Solidity DevOps      | Solidity, VSCode | Intermediate     | [Project Tutorial](3d/beginner.html)     |
 
 ### [**AI - Ubiquitous Interactive Intelligence, Sentient Digital Beings**](https://en.wikipedia.org/wiki/Metaverse)
 
