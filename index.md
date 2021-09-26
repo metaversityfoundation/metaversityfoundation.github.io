@@ -1,5 +1,6 @@
 ---
 title: Start Your Journey to become a Reality Engineer - 3D, XR, AI, Ethics
+layout: post
 ---
 
 ### **›› VIDEO ›› What is the Metaverse ››**
