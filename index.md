@@ -25,7 +25,11 @@ The future will be wild. The way we connect with each other is changing again. A
 
 ## What You Need
 
-#### We are starting with four Reality Engineer skills: Web Fundamentals, 3D, XR, Blockchain, AI, Ethics
+#### We are starting with four Reality Engineer skills: Code Fundamentals, 3D, XR, Blockchain, AI, Ethics
+
+### [**Code Fundamentals**](https://en.wikipedia.org/wiki/Metaverse)
+| Skill      | Tools | Level     | Link     |
+| :---        |    :---   |  :----:        | :---          |
 
 ### [**3D - Create Spatial Content**](https://en.wikipedia.org/wiki/Metaverse)
 
@@ -34,7 +38,7 @@ The future will be wild. The way we connect with each other is changing again. A
 | 3D Concepts      | Blender | Beginner     | [Project Tutorial](3d/beginner.html)     |
 | Sculpting      | Blender | Beginner     | [Project Tutorial](3d/beginner.html)     |
 | Materials      | Blender | Beginner     | [Project Tutorial](3d/beginner.html)     |
-| Asset Optomizaiton      | Blender | Intermediate     | [Project Tutorial](3d/beginner.html)     |
+| Asset Optimization      | Blender | Intermediate     | [Project Tutorial](3d/beginner.html)     |
 | PBR      | Substance, Blender | Intermediate    | [Project Tutorial](3d/beginner.html)     | 
 
 
@@ -45,9 +49,12 @@ The future will be wild. The way we connect with each other is changing again. A
 | Phone AR      | Three.js | Beginner     | [Project Tutorial](3d/beginner.html)     |
 | WebXR VR      | Three.js | Beginner     | [Project Tutorial](3d/beginner.html)     |
 | Physics      | Three.js | Beginner     | [Project Tutorial](3d/beginner.html)     |
-| Performance Optomizaiton      | Three.js | Intermediate     | [Project Tutorial](3d/beginner.html)     |
+| Performance Optimization      | Three.js | Intermediate     | [Project Tutorial](3d/beginner.html)     |
 | Shaders      | Unity, Three.js | Intermediate    | [Project Tutorial](3d/beginner.html)     | 
 
+### [**Blockchain**](https://en.wikipedia.org/wiki/Metaverse)
+| Skill      | Tools | Level     | Link     |
+| :---        |    :---   |  :----:        | :---          |
 
 ### [**AI - Ubiquitous Interactive Intelligence, Sentient Digital Beings**](https://en.wikipedia.org/wiki/Metaverse)
 
@@ -67,7 +74,7 @@ The future will be wild. The way we connect with each other is changing again. A
 | Skill      | Tools | Level     | Link     |
 | :---        |    :---   |  :----:        | :---          |
 | Economics and Governance      | Git, Wiki | Beginner     | [Project Tutorial](3d/beginner.html)     |
-| Soverignty and Data      | Git, Wiki | Beginner     | [Project Tutorial](3d/beginner.html)     |
+| Sovereignty and Data      | Git, Wiki | Beginner     | [Project Tutorial](3d/beginner.html)     |
 | Risk      | Git, Wiki | Beginner     | [Project Tutorial](3d/beginner.html)     |
-| Process Optomizaiton      | Git, Wiki | Intermediate     | [Project Tutorial](3d/beginner.html)     |
+| Process Optimization      | Git, Wiki | Intermediate     | [Project Tutorial](3d/beginner.html)     |
 | Spatial Audits      | Git, Wiki, Blender | Intermediate    | [Project Tutorial](3d/beginner.html)     | 
