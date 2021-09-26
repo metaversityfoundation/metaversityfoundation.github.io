@@ -2,6 +2,9 @@
 title: Start Your Journey to become a Reality Engineer - 3D, XR, AI, Ethics
 ---
 
+
+## [Join our Discord](https://discord.gg/Amsm5KD)  [![Discord Chat](https://img.shields.io/discord/139274054300467200.svg)](https://discord.gg/Amsm5KD)
+
 # The [Metaverse](https://en.wikipedia.org/wiki/Metaverse) is coming. 
 
 Who will build it?
