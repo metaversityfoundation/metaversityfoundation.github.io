@@ -1,2 +1,2 @@
-# metaversityfoundation.github.io
-Or Site
+# Metaversity Foundation
+Open Social Immersive AI Metaverse University
