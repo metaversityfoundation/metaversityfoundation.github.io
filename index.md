@@ -1,10 +1,6 @@
 ---
-layout: post
-title: Blogging Like a Hacker
+title: Start Your Journey to become a Reality Engineer - 3D, XR, AI, Ethics
 ---
-
-# Start Your Journey
-Starting place to become a Reality Engineer - 3D, XR, AI, Ethics
 
 ## Why?
 
