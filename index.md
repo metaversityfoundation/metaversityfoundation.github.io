@@ -31,7 +31,18 @@ The future will be wild. The way we connect with each other is changing again. A
 ## What You Need : A computer and time. Lots of time.
 These skills are a serious personal investment that never stops.
 
-#### We are starting with four Reality Engineer skills: Code Fundamentals, 3D, XR, Blockchain, AI, Ethics
+#### We are starting with four Reality Engineer skills: 
+
+
+| Skill Domain    | Beginner      | Intermediate     | Advanced     | Expert  |
+| :---        |  :---   |   :----:    |   :----:    | :---          |
+| [Code Fundamentals](3d/index.html)    | [Beginner](3d/index.html)      | [Intermediate](3d/index.html)     | [Advanced](3d/index.html)     | [Expert](3d/index.html)  |
+| [3D](3d/index.html)    | [Beginner](3d/index.html)      | [Intermediate](3d/index.html)     | [Advanced](3d/index.html)     | [Expert](3d/index.html)  |
+| [XR](3d/index.html)    | [Beginner](3d/index.html)      | [Intermediate](3d/index.html)     | [Advanced](3d/index.html)     | [Expert](3d/index.html)  |
+| [Blockchain](3d/index.html)    | [Beginner](3d/index.html)      | [Intermediate](3d/index.html)     | [Advanced](3d/index.html)     | [Expert](3d/index.html)  |
+| [AI](3d/index.html)    | [Beginner](3d/index.html)      | [Intermediate](3d/index.html)     | [Advanced](3d/index.html)     | [Expert](3d/index.html)  |
+| [Ethics](3d/index.html)    | [Beginner](3d/index.html)      | [Intermediate](3d/index.html)     | [Advanced](3d/index.html)     | [Expert](3d/index.html)  |
+
 
 ### [**Code Fundamentals**](https://en.wikipedia.org/wiki/Metaverse)
 
