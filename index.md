@@ -59,28 +59,34 @@ These skills are a serious personal investment that never stops.
 | Skill      | Tools | Level     | Link     |
 | :---        |    :---   |  :----:        | :---          |
 | 3D Concepts      | Blender | Beginner     | [Project Tutorial](3d/beginner.html)     |
-| Sculpting      | Blender | Beginner     | [Project Tutorial](3d/beginner.html)     |
-| Materials      | Blender | Beginner     | [Project Tutorial](3d/beginner.html)     |
+| Modeling / Sculpting      | Blender | Beginner     | [Project Tutorial](3d/beginner.html)     |
+| Texturing / Materials      | Blender | Beginner     | [Project Tutorial](3d/beginner.html)     |
+| Advanced 3D Concepts / USD / GLTF / FBX      | Blender | Beginner     | [Project Tutorial](3d/beginner.html)     |
 | Asset Optimization      | Blender | Intermediate     | [Project Tutorial](3d/beginner.html)     |
-| PBR      | Substance, Blender | Intermediate    | [Project Tutorial](3d/beginner.html)     | 
+| Advanced / Baking / PBR      | Substance, Blender | Intermediate    | [Project Tutorial](3d/beginner.html)     | 
+| Rigging      | Blender | Advanced     | [Project Tutorial](3d/beginner.html)     |
+| Animation      | Blender | Advanced     | [Project Tutorial](3d/beginner.html)     |
 
 ### [**XR - Create Immersive Expierences for Today and Tomorrow**](https://en.wikipedia.org/wiki/Metaverse)
 
-| Skill      | Tools | Level     | Link     |
+| Skill      | Tools  | Level     | Link     |
 | :---        |    :---   |  :----:        | :---          |
+| Graphics Fundamentals  | Three.js | Beginner     | [Project Tutorial](3d/beginner.html)     |
+| WebGL  | Three.js | Beginner     | [Project Tutorial](3d/beginner.html)     |
 | Phone AR      | Three.js | Beginner     | [Project Tutorial](3d/beginner.html)     |
 | WebXR VR      | Three.js | Beginner     | [Project Tutorial](3d/beginner.html)     |
 | Physics      | Three.js | Beginner     | [Project Tutorial](3d/beginner.html)     |
-| Performance Optimization      | Three.js | Intermediate     | [Project Tutorial](3d/beginner.html)     |
-| Shaders      | Unity, Three.js | Intermediate    | [Project Tutorial](3d/beginner.html)     | 
+| Web Performance Optimization      | Three.js | Intermediate     | [Project Tutorial](3d/beginner.html)     |
+| GLSL Shaders      | Unity, Three.js | Intermediate    | [Project Tutorial](3d/beginner.html)     | 
 
 ### [**Blockchain**](https://en.wikipedia.org/wiki/Metaverse)
 
 | Skill      | Tools | Level     | Link     |
 | :---        |    :---   |  :----:        | :---          |
 | Blockchain Concepts      | GitHub | Beginner     | [Project Tutorial](3d/beginner.html)     |
-| Coin, ICO, DAO Concepts      | GitHub | Beginner     | [Project Tutorial](3d/beginner.html)     |
+| Coins, DAOs, ICOs Concepts      | GitHub | Beginner     | [Project Tutorial](3d/beginner.html)     |
 | NFTs, Non-Fungable Tokens      | Solidity, VSCode | Intermediate     | [Project Tutorial](3d/beginner.html)     |
+| DAAPs      | Solidity, VSCode | Intermediate     | [Project Tutorial](3d/beginner.html)     |
 | Solidity      | Solidity, VSCode | Intermediate     | [Project Tutorial](3d/beginner.html)     |
 | Solidity DevOps      | Solidity, VSCode | Intermediate     | [Project Tutorial](3d/beginner.html)     |
 
@@ -88,8 +94,8 @@ These skills are a serious personal investment that never stops.
 
 | Skill      | Tools | Level     | Link     |
 | :---        |    :---   |  :----:        | :---          |
-| Machine Learning Concepts      | Python | Beginner     | [Project Tutorial](3d/beginner.html)     |
-| Python      | Python | Beginner     | [Project Tutorial](3d/beginner.html)     |
+| Machine Learning Concepts      | Python | Intermediate     | [Project Tutorial](3d/beginner.html)     |
+| Python      | Python | Intermediate     | [Project Tutorial](3d/beginner.html)     |
 | Calculations & Statistics      | Python | Beginner     | [Project Tutorial](3d/beginner.html)     |
 | Machine Learning      | Python | Beginner     | [Project Tutorial](3d/beginner.html)     |
 | Deep Learing      | Python | Beginner     | [Project Tutorial](3d/beginner.html)     |
