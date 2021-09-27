@@ -102,12 +102,15 @@ These skills are a serious personal investment that never stops.
 | Tune a Model      | Python, TensorFlow 2 | Beginner     | [Project Tutorial](3d/beginner.html)     |
 | Train a Model      | Python, TensorFlow 2 | Intermediate     | [Project Tutorial](3d/beginner.html)     |
 | Traning Pipelines      | Kubeflow, Python, TensorFlow 2 | Intermediate    | [Project Tutorial](3d/beginner.html)     | 
+| Digital Beings      | Kubeflow, Python, TensorFlow 2, GRPC | Experts    | [Project Tutorial](3d/beginner.html)     | 
 
 ### [**Ethics - The Culture and Politics of the Singularity Internet**](https://en.wikipedia.org/wiki/Metaverse)
 
 | Skill      | Tools | Level     | Link     |
 | :---        |    :---   |  :----:        | :---          |
 | Economics and Governance      | Git, Wiki | Beginner     | [Project Tutorial](3d/beginner.html)     |
+| Community Systems      | Git, Wiki | Beginner     | [Project Tutorial](3d/beginner.html)     |
+| Identity      | Git, Wiki | Beginner     | [Project Tutorial](3d/beginner.html)     |
 | Sovereignty and Data      | Git, Wiki | Beginner     | [Project Tutorial](3d/beginner.html)     |
 | Risk      | Git, Wiki | Beginner     | [Project Tutorial](3d/beginner.html)     |
 | Process Optimization      | Git, Wiki | Intermediate     | [Project Tutorial](3d/beginner.html)     |
